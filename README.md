@@ -71,5 +71,3 @@ The design includes a complete user journey—from onboarding to analytics—bui
 
 You can preview the complete interactive prototype of **WellPocket** here:  
 👉 [View WellPocket Prototyping](https://www.figma.com/proto/Amz0uDdaY6Kf7afRWjnSox/FinanceApp?node-id=1-2&t=u2QebTmDAmnoN9O9-1)
-
-## 📁 File Structure
